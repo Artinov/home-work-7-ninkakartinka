@@ -1,0 +1,115 @@
+body{
+	overflow-x:hidden;
+	margin: 0px;
+	width: 100%;
+}
+
+div h3{
+	font-weight: 900;
+}
+
+div h1{
+	font-weight: 900;
+	font-size: 60px;
+}
+
+div .navbar{
+	background-color: #1e3d5b;
+	color: white;
+	padding: 25px 35px;
+	text-align: center;
+	font-weight: bold;
+	margin: 0px;
+}
+
+div .navbar a{
+	color: white;
+}
+
+div .navbar a:hover{
+	color: #15BAA9;
+	text-decoration: none;
+}
+
+
+.title{
+	text-align: left;
+}
+
+div .startBoot{
+	color: white;
+	background-color: #15BAA9;
+	padding: 80px 100px;
+	
+}
+
+img.star{
+	margin: 20px 0px;
+}
+
+div.startBoot p{
+	font-size: 17px;
+	margin: 10px 0px;
+}
+
+div.portfolio img{
+	margin: 15px 0px;
+}
+
+div.about{
+	background-color: #15BAA9;
+	color: white;
+}
+
+div.about p{
+	text-align: left;
+}
+
+div.about button{
+	background-color: rgba(255, 0, 0, 0);
+	border-color: white;
+	color: white;
+	margin: 5px 0px;
+}
+
+div.about button:hover{
+	background-color: rgba(106,48,114, 0.2);
+	border-color: white;
+	color: white;
+}
+
+div.contact input{
+	padding-top: 25px;
+	padding-bottom: 25px;
+	border:none;
+	border-top: 2px solid lightgray;
+
+}
+
+div.contact textarea{
+	padding-top: 25px;
+	padding-bottom: 25px;
+	border:none;
+	border-top: 2px solid lightgray;
+	border-bottom: 2px solid lightgray;
+
+}
+
+div.contact button{
+	margin:5px 0px;
+	float: left;
+	background-color: #15BAA9;
+}
+
+div.end{
+	background-color: #1e3d5b;
+	margin-top:25px;
+	color: white;
+	padding: 40px 20px;
+}
+
+div.footer{
+	background-color: #0f1e2d;
+	padding: 20px 0px;
+	color: white;
+}
